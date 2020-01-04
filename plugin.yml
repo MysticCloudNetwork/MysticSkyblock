@@ -1,0 +1,10 @@
+name: MysticSkyblock
+author: QuickScythe
+version: BETA
+api-version: 1.13
+description: Skyblock plugin for MysticCloud.
+main: net.mysticcloud.spigot.skyblock.Main
+commands:
+  island:
+    description: "Opens Island GUI. Use '/island help' for a full list of commands."
+    aliases: ['is']
